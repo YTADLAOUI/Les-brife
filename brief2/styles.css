@@ -1,0 +1,30 @@
+
+header{
+    display: flex;
+    
+}
+header img{
+    width: 100px;
+    height: 100px;
+}
+nav ul  {
+    display: flex;
+    
+
+}
+nav ul li a {
+  
+    text-decoration: none;
+    
+  
+}
+
+header nav ul li a :hover {
+    background-color: blue;
+}
+
+header nav ul li {
+    list-style: none;
+   margin-left: 55px ;
+   margin-top: 20px;
+}
