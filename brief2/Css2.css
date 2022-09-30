@@ -61,3 +61,11 @@ section {
 .lorem p{
     margin-right: 500px;
 }
+.information {
+    margin-top: 80px;
+    border: 2px solid brown;
+    background-color: rgb(164, 243, 243);
+}
+.information h4 {
+  padding-left: 500px;
+}
