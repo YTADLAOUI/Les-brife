@@ -44,3 +44,20 @@ ol li a {
 ol li+li {
  margin-left: 30px ;
 }
+section {
+    display: flex;
+}
+.pictures img {
+    width: 250px;
+    height: 200;
+    
+}
+.pictures {
+    border: 1px solid black;
+    margin-left: 40px;
+    margin-top:50px;
+    padding: 20px;
+}
+.lorem p{
+    margin-right: 500px;
+}
