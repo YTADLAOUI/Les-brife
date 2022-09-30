@@ -12,6 +12,7 @@ nav ul  {
     
 
 }
+
 nav ul li a {
   
     text-decoration: none;
@@ -24,7 +25,22 @@ header nav ul li a :hover {
 }
 
 header nav ul li {
-    list-style: none;
+   list-style: none;
    margin-left: 55px ;
    margin-top: 20px;
+}
+ol {
+    display: flex; 
+    padding: 0px;
+
+}
+ol li  {
+    list-style: none;
+}
+ol li a {
+    text-decoration: none;
+    
+}
+ol li+li {
+ margin-left: 30px ;
 }
